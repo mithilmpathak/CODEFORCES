@@ -25,8 +25,8 @@ int main() {
                 curr = 1;
             }
         }
-        longest = max(longest, curr) + 1;
-        cout<<longest <<endl;
+        longest = max(longest, curr);
+        cout<<longest + 1<<endl;
     }
     return 0;
 }
