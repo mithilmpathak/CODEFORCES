@@ -1,1 +1,0 @@
-{"name":"Local: gf_name","url":"c:\\Mithil\\CODEFORCES\\gf_name.cpp","tests":[{"id":1764225570778,"input":"5\n7\nhumitsa mitsuha\n4\norhi hori\n6\naakima makima\n6\nnezuqo nezuko\n6\nmisaka mikasa\n","output":"YES\nYES\nNO\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Mithil\\CODEFORCES\\gf_name.cpp","group":"local","local":true}
